@@ -2,7 +2,7 @@ package com.javing.demo;
 
 public class Test {
 
-	public static void main(String[] pa) {
+	public static void main(String[] args) {
     // style in http://central.maven.org/maven2/com/cloudipsp/android/1.0/
 		String text = "android-1.0-sources.jar.asc.md5                   2017-08-10 08:57        32      "
 					+ "android-1.0-sources.jar.asc.sha1                  2017-08-10 08:57        40      ";
